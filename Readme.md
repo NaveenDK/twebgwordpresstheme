@@ -32,4 +32,6 @@ A theme built on bootstrap with admin editing capability for the Menu and the ma
 1. Depending on client requirements we can add ACF repeater for testimonials and services
 2. Global Custom fields to be added 
 3. Services Image sizes with more width required for the best effect
+
+Live at : https://lifewayedu.com/menus
  
